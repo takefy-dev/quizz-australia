@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/quizz-australia/static/css/main.c9130926.css",
+    "main.js": "/quizz-australia/static/js/main.535bd0a3.js",
+    "static/js/787.8b889515.chunk.js": "/quizz-australia/static/js/787.8b889515.chunk.js",
+    "index.html": "/quizz-australia/index.html",
+    "main.c9130926.css.map": "/quizz-australia/static/css/main.c9130926.css.map",
+    "main.535bd0a3.js.map": "/quizz-australia/static/js/main.535bd0a3.js.map",
+    "787.8b889515.chunk.js.map": "/quizz-australia/static/js/787.8b889515.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9130926.css",
+    "static/js/main.535bd0a3.js"
+  ]
+}
