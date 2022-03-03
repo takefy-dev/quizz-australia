@@ -70,6 +70,9 @@ function App() {
         />
         {asSubmit ? <Result score={score} /> : ""}
       </div>
+      <footer className="text-center text-white">
+        <h3>Created by Jules</h3>
+      </footer>
     </>
   );
 }

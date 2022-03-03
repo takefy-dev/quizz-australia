@@ -68,8 +68,8 @@ const questions = [
   {
     question:
       "Wich British captain discovered Australia for the British Empire ?",
-    choices: [" Christophe Colomb", "Fernand De Magelan", "Captain Cook"],
-    answer: 2,
+    choices: [" Christophe Colomb", "Willem Jansz", "Captain Cook"],
+    answer: 1,
     id: 11,
   },
   {
